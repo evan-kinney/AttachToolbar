@@ -19,6 +19,10 @@ Attach Toolbar has ability to use different engine types:
 
 ![Screenshot](https://fareloz.gallerycdn.vsassets.io/extensions/fareloz/attachtoolbar/2.2/1510410307285/286944/1/Snipaste_2017-11-11_16-22-21.png)
 
+## In version 2.3
+
+- Add support for Visual Studio 2022
+
 ## In version 2.2
 
 - Attach to all button added
@@ -40,4 +44,4 @@ Attach Toolbar has ability to use different engine types:
 
 ## Additional information
 
-[Extension Gallery link](https://marketplace.visualstudio.com/items?itemName=fareloz.AttachToolbar)
+[Extension Gallery link](https://marketplace.visualstudio.com/items?itemName=evan-kinney.AttachToolbar2022)
