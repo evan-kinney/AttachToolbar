@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27004.2008
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttachToolbar", "AttachToolbar.csproj", "{D8407669-D43D-47E9-8A5F-B81DC0606A89}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Attach Toolbar 2022", "Attach Toolbar 2022.csproj", "{D8407669-D43D-47E9-8A5F-B81DC0606A89}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
